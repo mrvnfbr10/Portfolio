@@ -1,13 +1,22 @@
 body{
-      background-color: #EAF6F6;
+      background-color: #F9F7F7;
     }
 hr{
-        border-color: #F76B8A;
+        border-color: #DBE2EF;
         border-style: dotted none none;
-        border-width: 5px;
+        border-width: 8px;
         height: 0px;
         width: 5%;
     }
 h1, th{
-    color: #66BFBF;
+    color: #3F72AF;
+}
+p, td{
+    color:#112D4E;
+}
+img:hover{
+ background-color: #112D4E;
+}
+.circular{
+    border-radius: 10%;
 }
